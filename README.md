@@ -17,7 +17,7 @@
   <a href="https://github.com/mendozaarnaldofabian-wq?tab=repositories">
     <img src="https://img.shields.io/github/stars/mendozaarnaldofabian-wq?label=Estrellas&style=for-the-badge&color=00c6ff&logo=github" alt="GitHub Stars"/>
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:mendozaarnaldofabian@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Ubicación-Paraguay_🇵🇾-0038A8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paraguay Badge"/>
@@ -134,7 +134,7 @@
 
 ¿Interesado en conversar sobre oportunidades, proyectos o tecnología? **¡Conectemos!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-595981123456-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/595982185806)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mendozaarnaldofabian-wq)
 [![Email](https://img.shields.io/badge/Correo-Enviar_Mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
