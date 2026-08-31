@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner Superior animado con degradado azul -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Arnaldo%20Fabi%C3%A1n%20Mendoza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador Jr.%20%20S%20%7C%20Bases%20de%20Datos%20%7C%20Redes%20%7C%20Facturación%20Electrónica&descSize=15&descAlignY=62" width="100%" alt="Header Banner"/>
-
   <!-- Subtítulo animado tipo consola -->
   <a href="https://github.com/mendozaarnaldofabian-wq">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00C6FF&center=true&vCenter=true&width=620&lines=Estudiante+Universitario+%2B+Dev;Esp.+en+Facturación+Electrónica+y+Sistemas;Admin.+de+Bases+de+Datos%2C+Servidores+y+Redes;Creador+de+Fastlog+🇵🇾" alt="Typing SVG" />
