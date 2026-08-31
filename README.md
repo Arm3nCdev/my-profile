@@ -102,7 +102,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 ---
 
-## 📫 Contacto & Redes
+##  Contacto & Redes
 
 <div align="center">
 
