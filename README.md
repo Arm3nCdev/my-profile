@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Superior animado con degradado azul -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Arnaldo%20Fabi%C3%A1n%20Mendoza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Sistemas%20%7C%20Bases%20de%20Datos%20%7C%20Redes%20%7C%20Facturación%20Electrónica&descSize=15&descAlignY=62" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Arnaldo%20Fabi%C3%A1n%20Mendoza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador Jr.%20%20S%20%7C%20Bases%20de%20Datos%20%7C%20Redes%20%7C%20Facturación%20Electrónica&descSize=15&descAlignY=62" width="100%" alt="Header Banner"/>
 
   <!-- Subtítulo animado tipo consola -->
   <a href="https://github.com/mendozaarnaldofabian-wq">
@@ -28,34 +28,34 @@
 
 ---
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
-👋 **¡Hola! Soy Arnaldo Fabián Mendoza Cardozo**, profesional responsable, adaptable y estudiante universitario apasionado por el desarrollo de sistemas, las bases de datos y la infraestructura IT.
+ **¡Hola! Soy Arnaldo Fabián Mendoza Cardozo**, profesional responsable, adaptable y estudiante universitario apasionado por el desarrollo de sistemas, las bases de datos y la infraestructura IT.
 
-- 💼 **Trabajo Actual:** Técnico en Desarrollo de Sistemas de Facturación Electrónica y Administración IT en **Full-Tech Innovaciones Tecnológicas S.A.**
-- 🎓 **Formación:** Estudiante universitario en aprendizaje constante de arquitecturas y nuevas tecnologías.
-- 💡 **Perfil Versátil:** Alta capacidad de aprendizaje combinada con experiencia práctica en **atención al cliente, soporte, mantenimiento de servidores, redes y bases de datos**.
-- 📦 **Proyecto Destacado:** Creador de **Fastlog**, sistema integral para logística y gestión de envíos.
+-  **Trabajo Actual:** Técnico en Desarrollo de Sistemas de Facturación Electrónica y Administración IT en **Full-Tech Innovaciones Tecnológicas S.A.**
+-  **Formación:** Estudiante universitario de la carrera de Lic. en Análisis de Sistemas, en aprendizaje constante de arquitecturas y nuevas tecnologías.
+-  **Perfil Versátil:** Alta capacidad de aprendizaje combinada con experiencia práctica en **atención al cliente, soporte, mantenimiento de servidores, redes y bases de datos**.
+-  **Proyecto Destacado:** Creador de **Fastlog**, sistema integral para logística y gestión de envíos.
 
 ---
 
-## 🛠️ Habilidades & Tecnologías
+##  Habilidades & Tecnologías
 
 <div align="center">
 
-### 💻 Desarrollo & Lenguajes
+###  Desarrollo & Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🗄️ Bases de Datos & Servidores
+![React](https://img.shields.io/badge/React-336791?style=for-the-badge&logo=react&logoColor=white)
+###  Bases de Datos & Servidores
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔌 Infraestructura & Especialidades
+###  Infraestructura & Especialidades
 ![Redes](https://img.shields.io/badge/Redes_%26_SysAdmin-00599E?style=for-the-badge&logo=cisco&logoColor=white)
 ![Facturación Electrónica](https://img.shields.io/badge/Facturación_Electrónica-SET_SIFEN-008080?style=for-the-badge&logo=buffer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,18 +65,18 @@
 
 ---
 
-## 💼 Experiencia Laboral
+##  Experiencia Laboral
 
-### 🏢 **Full-Tech Innovaciones Tecnológicas S.A.** *(Actual)*
+###  **Full-Tech Innovaciones Tecnológicas S.A.** *(Actual)*
 **Cargo:** Técnico en Desarrollo de Sistemas de Facturación Electrónica & Administración de Infraestructura
 
-- ⚡ **Desarrollo de Sistemas:** Creación e integración de módulos informáticos para facturación electrónica bajo normativas legales.
-- 🗄️ **Bases de Datos & Servidores:** Mantenimiento preventivo/correctivo y administración de motores de bases de datos y servidores de producción.
-- 🌐 **Redes:** Gestión y monitoreo de la infraestructura de conectividad y redes internas de la empresa.
+-  **Desarrollo de Sistemas:** Creación e integración de módulos informáticos para facturación electrónica bajo normativas legales.
+-  **Bases de Datos & Servidores:** Mantenimiento preventivo/correctivo y administración de motores de bases de datos y servidores de producción.
+-  **Redes:** Gestión y monitoreo de la infraestructura de conectividad y redes internas de la empresa.
 
 ---
 
-## 📌 Proyectos Destacados
+##  Proyectos Destacados
 
 <table width="100%">
   <tr>
