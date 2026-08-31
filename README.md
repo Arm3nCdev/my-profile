@@ -1,11 +1,5 @@
 <div align="center">
 
-  <!-- Subtítulo animado tipo consola -->
-  <a href="https://github.com/mendozaarnaldofabian-wq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00C6FF&center=true&vCenter=true&width=620&lines=Estudiante+Universitario+%2B+Dev;Esp.+en+Facturación+Electrónica+y+Sistemas;Admin.+de+Bases+de+Datos%2C+Servidores+y+Redes;Creador+de+Fastlog+🇵🇾" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
 
   <!-- Insignias de estado y redes -->
   <a href="https://github.com/mendozaarnaldofabian-wq">
