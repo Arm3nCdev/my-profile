@@ -104,12 +104,6 @@
 
 ##  Estadísticas de GitHub
 
-<div align="center">
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mendozaarnaldofabian-wq&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c6ff&icon_color=0072ff" alt="Estadísticas de GitHub" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozaarnaldofabian-wq&layout=compact&theme=tokyonight&hide_border=true&title_color=00c6ff" alt="Lenguajes más usados" />
-
-</div>
 
 <br/>
 
