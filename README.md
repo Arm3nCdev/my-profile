@@ -87,7 +87,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧾 Facturación Electrónica</h3>
+      <h3 align="center"> Facturación Electrónica</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Área-Sistemas_Empresariales-blue?style=flat-square" alt="Area"/>
         <img src="https://img.shields.io/badge/Integración-SET / SIFEN-teal?style=flat-square" alt="SET Integration"/>
