@@ -96,23 +96,9 @@
   </tr>
 </table>
 
----
-
-##  Estadísticas de GitHub
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arm3nCdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=0072ff&currStreakLabel=00C6FF" alt="Racha de GitHub" />
-</div>
-
----
-
 ##  Contacto & Redes
 
 <div align="center">
- **¡Conectemos!**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-595982185806-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/595982185806)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arm3ncdev)
