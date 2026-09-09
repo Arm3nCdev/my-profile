@@ -21,7 +21,7 @@
 
 ##  Sobre Mí
 
- **¡Hola! Soy Arnaldo Fabián Mendoza Cardozo**, profesional responsable, adaptable y estudiante universitario apasionado por el desarrollo de sistemas, las bases de datos y la infraestructura IT.
+ **Soy Arnaldo Fabián Mendoza Cardozo**, profesional responsable, adaptable y estudiante universitario apasionado por el desarrollo de sistemas, las bases de datos y la infraestructura IT.
 
 -  **Trabajo Actual:** Técnico en Desarrollo de Sistemas de Facturación Electrónica y Administración IT en **Full-Tech Innovaciones Tecnológicas S.A.**
 -  **Formación:** Estudiante universitario de la carrera de Lic. en Análisis de Sistemas, en aprendizaje constante de arquitecturas y nuevas tecnologías.
@@ -36,21 +36,19 @@
 
 ###  Desarrollo & Lenguajes
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![C](https://img.shields.io/badge/c-F7DF1E?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-336791?style=for-the-badge&logo=react&logoColor=white)
 ###  Bases de Datos & Servidores
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###  Infraestructura & Especialidades
 ![Redes](https://img.shields.io/badge/Redes_%26_SysAdmin-00599E?style=for-the-badge&logo=cisco&logoColor=white)
-![Facturación Electrónica](https://img.shields.io/badge/Facturación_Electrónica-SET_SIFEN-008080?style=for-the-badge&logo=buffer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -88,10 +86,6 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"> Facturación Electrónica</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Área-Sistemas_Empresariales-blue?style=flat-square" alt="Area"/>
-        <img src="https://img.shields.io/badge/Integración-SET / SIFEN-teal?style=flat-square" alt="SET Integration"/>
-      </p>
       <p>Desarrollo de soluciones especializadas para la emisión, validación y transmisión automatizada de documentos tributarios electrónicos.</p>
       <p align="center">
         <a href="https://github.com/mendozaarnaldofabian-wq">
@@ -118,8 +112,7 @@
 ##  Contacto & Redes
 
 <div align="center">
-
-¿Interesado en conversar sobre oportunidades, proyectos o tecnología? **¡Conectemos!**
+ **¡Conectemos!**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-595982185806-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/595982185806)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arm3ncdev)
