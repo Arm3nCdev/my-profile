@@ -2,11 +2,8 @@
 
 
   <!-- Insignias de estado y redes -->
-  <a href="https://github.com/mendozaarnaldofabian-wq">
-    <img src="https://img.shields.io/github/followers/mendozaarnaldofabian-wq?label=Seguidores&style=for-the-badge&color=0072ff&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/mendozaarnaldofabian-wq?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mendozaarnaldofabian-wq?label=Estrellas&style=for-the-badge&color=00c6ff&logo=github" alt="GitHub Stars"/>
+  <a href="https://github.com/Arm3nCdev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Arm3nCdev?label=Estrellas&style=for-the-badge&color=00c6ff&logo=github" alt="GitHub Stars"/>
   </a>
   <a href="mailto:mendozaarnaldofabian@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
