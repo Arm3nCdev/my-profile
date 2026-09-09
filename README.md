@@ -105,7 +105,4 @@
 
 <br/>
 
-<div align="center">
-  <sub>Desarrollado con pasión desde Paraguay 🇵🇾</sub>
-</div>
 
