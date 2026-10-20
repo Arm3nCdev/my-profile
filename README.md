@@ -24,6 +24,7 @@
 -  **Formación:** Estudiante universitario de la carrera de Lic. en Análisis de Sistemas, en aprendizaje constante de arquitecturas y nuevas tecnologías.
 -  **Perfil Versátil:** Alta capacidad de aprendizaje combinada con experiencia práctica en **atención al cliente, soporte, mantenimiento de servidores, redes y bases de datos**.
 -  **Proyecto Destacado:** Creador de **Fastlog**, sistema integral para logística y gestión de envíos.
+-  Diseño y Desarrollo de **GymBro**, sistema gestión de gimnasios multitenant y multi usuarios con mascota dinámica.
 
 ---
 
