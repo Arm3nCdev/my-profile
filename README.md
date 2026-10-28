@@ -46,7 +46,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###  Infraestructura & Especialidades
-![Redes](https://img.shields.io/badge/Redes_%26_SysAdmin-00599E?style=for-the-badge&logo=cisco&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes_%26_SysAdmin-00599E?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -62,6 +62,8 @@
 -  **Desarrollo de Sistemas:** Creación e integración de módulos informáticos para facturación electrónica bajo normativas legales.
 -  **Bases de Datos & Servidores:** Mantenimiento preventivo/correctivo y administración de motores de bases de datos y servidores de producción.
 -  **Redes:** Gestión y monitoreo de la infraestructura de conectividad y redes internas de la empresa.
+
+### **Centro Logístico de Tecnología**: Puesto de desarrollador junior del Grupo Continental en Itacua Bienes Raíces(Actual).
 
 ---
 
